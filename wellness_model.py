@@ -122,3 +122,4 @@ class WellnessAssistant:
         if not recs:
             recs.append("✅ Healthy blood pressure levels.")
         return recs
+        
